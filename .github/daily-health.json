@@ -1,0 +1,26 @@
+{
+  "project": "Observe",
+  "files": [
+    "README.md",
+    "ATTRIBUTION.md",
+    "assets/banner.svg",
+    "assets/cells.png",
+    "assets/bottles.jpg"
+  ],
+  "markdown": [
+    "README.md",
+    "ATTRIBUTION.md"
+  ],
+  "svg": [
+    "assets/banner.svg"
+  ],
+  "sha256": {
+    "assets/cells.png": "28b7d28fd119f493f16f395e9e3fb51b124f03240743a22ead7818613b03403b",
+    "assets/bottles.jpg": "479b5fdd8885fe504c0c47b6084c3230de1e1f69714662ca231c987fba312088"
+  },
+  "urls": [
+    "https://doi.org/10.5281/zenodo.5205955",
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "scope": "Checks this public portfolio repository only: documentation targets, SVG structure, screenshot checksums recorded in ATTRIBUTION.md, and dataset/license link reachability. Does not access private source code, run inference, or validate research measurements."
+}
